@@ -10,7 +10,7 @@ class Makeclones < Formula
       :windows
     when /darwin|mac os/
       url "https://github.com/droxey/makeclones/releases/download/v1.0.0/makeclones_1.0.0_darwin_amd64.zip"
-      sha256 "61ce8cba7656c1bd20e5a14e2e5d979f26643556dc8f89168f1c671838ea4e84"
+      sha256 "7b7377eeeb653bcdd32f842b73d2145acb81523a0a0b977bf4e116280616b1ed"
     when /linux/
       url "https://github.com/droxey/makeclones/releases/download/v1.0.0/"
       sha256 ""
@@ -25,7 +25,7 @@ class Makeclones < Formula
       :windows
     when /darwin|mac os/
       url "https://github.com/droxey/makeclones/releases/download/v1.0.0/makeclones_1.0.0_darwin_386.zip"
-      sha256 "d3be464c4afab53cdacf0e9ce10ca35ddd1d82a42bc355ca3dc64b3a99b23fc8"
+      sha256 "5a7f019da4f0d3d857f06135d6dcce115289d41a9336a8a8dd8061620af25de3"
     when /linux/
       url "https://github.com/droxey/makeclones/releases/download/v1.0.0/"
       sha256 ""
